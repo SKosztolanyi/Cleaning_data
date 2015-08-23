@@ -1,0 +1,10 @@
+This dataset is based on assignment by coursera.org, in course Getting and Cleaning data.
+
+The source data were obtained from https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip
+
+My aim was to merge datasets, subset only main and stds and group them into factors.
+
+This way, I was able to get dataset made of 180 rows which consisted of different factors.
+
+There were 30 people in the experiment and every person was under 6 conditions, called walking, walking downstairs, walking upstairs, sitting, standing, lying
+
